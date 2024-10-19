@@ -53,13 +53,12 @@
 }
 
 
-/* .col-md-4{
-  width: 100%;
-  display: flex;
-  justify-content: end;
+.owener{
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
-
-.text-end .d-none .d-md-block{
-  display: flex;
-  justify-content: end;
-} */
+.mailto{
+    text-decoration: none;
+    color: white;
+}
